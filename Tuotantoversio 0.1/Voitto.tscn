@@ -1,0 +1,29 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Button2.gd" type="Script" id=1]
+
+[node name="Voitto" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Panel" type="Panel" parent="."]
+modulate = Color( 0, 0, 0, 1 )
+margin_right = 1920.0
+margin_bottom = 1080.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button2" type="Button" parent="."]
+margin_left = 799.488
+margin_top = 523.052
+margin_right = 1204.49
+margin_bottom = 662.052
+text = "pelaa uudelleen"
+flat = true
+script = ExtResource( 1 )
+
+[connection signal="pressed" from="Button2" to="Button2" method="_on_Button2_pressed"]

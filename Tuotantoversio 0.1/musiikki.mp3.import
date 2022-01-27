@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/musiikki.mp3-4646cccbbde9b065100dd2c7d231faaa.mp3str"
+
+[deps]
+
+source_file="res://musiikki.mp3"
+dest_files=[ "res://.import/musiikki.mp3-4646cccbbde9b065100dd2c7d231faaa.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
