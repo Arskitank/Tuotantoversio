@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/BeepBox-Song2334.mp3-8a30257e0be6712884e1a8b16c550c2a.mp3str"
+
+[deps]
+
+source_file="res://BeepBox-Song2334.mp3"
+dest_files=[ "res://.import/BeepBox-Song2334.mp3-8a30257e0be6712884e1a8b16c550c2a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
